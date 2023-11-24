@@ -7,7 +7,7 @@ funzionalita:
 -bhooo
 #  installazione
 
-per installare qu7esto programma bisogna...
+per installare questo programma bisogna...
 
 # roadmap
 
